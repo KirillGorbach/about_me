@@ -1,1 +1,1 @@
-https://github.com/KirillGorbach/about_me/
+https://KirillGorbach.github.io/about_me/
