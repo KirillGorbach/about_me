@@ -46,7 +46,7 @@ h2 {
 
 @media  screen and (max-width: 525px) {
   article{
-    display: table-row;
+    display: inline;
     vertical-align: top;
   }
 } 
