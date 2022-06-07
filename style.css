@@ -36,10 +36,21 @@ h2 {
   max-width: 500px;
 }
 
-article{
-  display: inline-block;
-  vertical-align: top;
+@media  screen and (min-width: 525px) {
+
+  article{
+    display: inline-block;
+    vertical-align: top;
+  }
 }
+
+@media  screen and (max-width: 525px) {
+  article{
+    display: table-row;
+    vertical-align: top;
+  }
+} 
+
 
 .sum{
   max-width: 440px;
