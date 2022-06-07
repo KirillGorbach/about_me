@@ -38,6 +38,7 @@ h2 {
 
 article{
   display: inline-block;
+  vertical-align: top;
 }
 
 .sum{
